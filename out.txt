@@ -1,0 +1,16 @@
+1.txt
+1.txt~
+a.out
+in.txt
+#isaac.cpp#
+isaac.cpp
+isaac.cpp~
+main.
+main.cpp
+main.cpp~
+main.o
+Makefile
+Makefile~
+out.txt
+prog2
+simple-shell
